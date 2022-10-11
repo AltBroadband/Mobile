@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+PRODID:-//IDN nextcloud.com//Calendar app 3.0.6//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CREATED:20221011T121406Z
+DTSTAMP:20221011T121635Z
+LAST-MODIFIED:20221011T121635Z
+SEQUENCE:2
+UID:0680ec3e-33bf-4606-b225-8e878858897f
+DTSTART;VALUE=DATE:20241011
+DTEND;VALUE=DATE:20241012
+STATUS:CONFIRMED
+SUMMARY:Have Vodafone/Three merged\, improved or not?
+LOCATION:https://www.ispreview.co.uk/talk/forums/mobile-broadband-and-fixed
+ -wireless.106/
+DESCRIPTION:Back to the future: have Three/Vodafone merged\, have things ch
+ anged\, have they improved?
+END:VEVENT
+END:VCALENDAR
